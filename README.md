@@ -1,6 +1,6 @@
 # 📌 {{NOMBRE_DEL_PROYECTO}}
 
-> {{Breve descripción del proyecto en una o dos líneas}}
+> {{Pequeña descripción del proyecto}}
 
 ---
 
