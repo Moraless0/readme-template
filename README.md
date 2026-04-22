@@ -1,12 +1,12 @@
-# 📌 {{NOMBRE_DEL_PROYECTO}}
+# 📌 (NOMBRE_DEL_PROYECTO)
 
-> {{Pequeña descripción del proyecto}}
+> Pequeña descripción del proyecto
 
 ---
 
 ## 📖 Descripción
 
-{{Explica qué hace el proyecto, qué problema resuelve y a quién va dirigido.}}
+> Explica qué hace el proyecto, qué problema resuelve y a quién va dirigido.
 
 ---
 
@@ -29,11 +29,11 @@
 
 ## 🛠️ Tecnologías utilizadas
 
-{{Lista clara de tecnologías usadas}}
+> Lista clara de tecnologías usadas
 
-* {{Tecnología 1}}
-* {{Tecnología 2}}
-* {{Tecnología 3}}
+* Tecnología 1
+* Tecnología 2
+* Tecnología 3
 
 ---
 
@@ -41,38 +41,38 @@
 
 Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
-* {{Requisito 1}}
-* {{Requisito 2}}
-* {{Requisito 3}}
+* Requisito 1
+* Requisito 2
+* Requisito 3
 
 ---
 
 ## 🚀 Instalación
 
-Sigue estos pasos para instalar y ejecutar el proyecto:
+> Sigue estos pasos para instalar y ejecutar el proyecto:
 
 ```bash
 # Clonar el repositorio
-git clone {{URL_DEL_REPOSITORIO}}
+git clone (URL_DEL_REPOSITORIO)
 
 # Entrar al directorio
-cd {{NOMBRE_DEL_PROYECTO}}
+cd (NOMBRE_DEL_PROYECTO)
 
 # Instalar dependencias
-{{COMANDO_DE_INSTALACION}}
+(COMANDO_DE_INSTALACION)
 
 # Ejecutar el proyecto
-{{COMANDO_DE_EJECUCION}}
+(COMANDO_DE_EJECUCION)
 ```
 
 ---
 
 ## ▶️ Uso
 
-{{Explica cómo usar el proyecto con ejemplos claros}}
+> Explica cómo usar el proyecto con ejemplos claros
 
 ```bash
-{{Ejemplo de uso}}
+Ejemplo de uso
 ```
 
 ---
@@ -80,44 +80,44 @@ cd {{NOMBRE_DEL_PROYECTO}}
 ## 📁 Estructura del proyecto
 
 ```bash
-{{NOMBRE_DEL_PROYECTO}}/
-│── {{carpeta_1}}/
-│── {{carpeta_2}}/
-│── {{archivo_principal}}
+(NOMBRE_DEL_PROYECTO)/
+│── (carpeta_1)/
+│── (carpeta_2)/
+│── (archivo_principal)
 │── README.md
 ```
 
 **Descripción:**
 
-* `{{carpeta_1}}`: {{Qué contiene}}
-* `{{carpeta_2}}`: {{Qué contiene}}
-* `{{archivo_principal}}`: {{Función del archivo}}
+* `(carpeta_1)`:
+* `(carpeta_2)`:n
+* `(archivo_principal)`:
 
 ---
 
 ## ✨ Funcionalidades
 
-* ✔️ {{Funcionalidad 1}}
-* ✔️ {{Funcionalidad 2}}
-* ✔️ {{Funcionalidad 3}}
+* ✔️ Funcionalidad 1
+* ✔️ Funcionalidad 2
+* ✔️ Funcionalidad 3
 
 ---
 
 ## 🖼️ Capturas de pantalla
 
-{{Agrega imágenes del proyecto}}
+> Agrega imágenes del proyecto
 
 ```md
-![Descripción de la imagen](ruta/a/la/imagen.png)
+[Descripción de la imagen](ruta/a/la/imagen.png)
 ```
 
 ---
 
 ## 🧭 Roadmap / Mejoras futuras
 
-* [ ] {{Mejora futura 1}}
-* [ ] {{Mejora futura 2}}
-* [ ] {{Mejora futura 3}}
+* [ ] Mejora futura 1
+* [ ] Mejora futura 2
+* [ ] Mejora futura 3
 
 ---
 
@@ -147,7 +147,7 @@ Las contribuciones son bienvenidas.
 
 ## 📄 Licencia
 
-{{Especifica la licencia del proyecto, por ejemplo: MIT}}
+>Especifica la licencia del proyecto
 
 ---
 
@@ -155,5 +155,5 @@ Las contribuciones son bienvenidas.
 
 **{{Tu nombre}}**
 
-* GitHub: {{Tu perfil}}
-* Email: {{Tu correo}}
+* GitHub: **Moraless0**
+* Email: **moraless06@hotmail.com**
