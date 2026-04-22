@@ -110,6 +110,12 @@ Ejemplo de uso
 ```md
 [Descripción de la imagen](ruta/a/la/imagen.png)
 ```
+---
+## ✅ Compartibilidad
+
+| Windows | MacOS | Android |
+| ------- | ----- | ------- |
+| ✅ | ✅ | ❌ |
 
 ---
 
